@@ -1,0 +1,2 @@
+[console_scripts]
+fred1sim = fred1sim:main

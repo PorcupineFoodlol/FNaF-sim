@@ -1,0 +1,7 @@
+fred1sim.py
+setup.py
+fred1sim.egg-info/PKG-INFO
+fred1sim.egg-info/SOURCES.txt
+fred1sim.egg-info/dependency_links.txt
+fred1sim.egg-info/entry_points.txt
+fred1sim.egg-info/top_level.txt
